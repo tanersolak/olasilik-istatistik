@@ -44,7 +44,7 @@ Sayfanın sonunda ise sayılarınızın adedini gösteren bir çizgi grafiği me
 # Kurulum
 ## Github üzerinden indirmek
 
-<img src="images/kurulum.png">
+<img src="images/kurulum_1.png">
 Resimdeki adımları takip ederek kodu zip olarak indirdikten sonra zipi açarak dosya içindeki index.html'e çift tıklayarak açarsanız siteyi kullanabilirsiniz.
 
 ## Site Linki
